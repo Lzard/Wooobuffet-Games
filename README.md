@@ -8,3 +8,6 @@ Bien, bien... Bienvenue dans le monde merveilleux de Wooobuffet-Games. Je suis l
 Le but du projet est de créer un logiciel libre et gratuit et cool et génial et capable de créer des pokémon-like facilement. Bref, c'est à Pokémon ce que RPG Maker est à Final Fantasy/Dragon Quest.
 
 Voilà voilà... Bon développement.
+
+
+PS : Vidéo de la dernière réunion du groupe : http://www.youtube.com/watch?v=JMX00jdY5AU
